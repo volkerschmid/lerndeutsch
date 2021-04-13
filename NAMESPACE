@@ -2,3 +2,4 @@
 
 export(random_encouragement)
 export(random_praise)
+export(write.de.json)
