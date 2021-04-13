@@ -1,7 +1,7 @@
 Package: lerndeutsch
 Type: Package
 Title: Deutsche Übersetzung für learnr und gradethis
-Version: 0.1.1
+Version: 0.1.2
 Author: Volker Schmid [aut, cre]
 Maintainer: Volker Schmid <volker.schmid@lmu.de>
 Authors@R: c(person("Volker", "Schmid", role = c("aut", "cre"), email = "volker.schmid@lmu.de"))
