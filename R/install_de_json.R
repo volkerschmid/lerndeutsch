@@ -3,7 +3,7 @@
 #' @return
 #' @export
 #'
-write.de.json <- function() {
+schreibJSON <- function() {
   ## Schreibe json Deutsche Übersetzungen
   jsonlite::write_json( list(
     button = list(

@@ -11,7 +11,7 @@ remotes::install_github("volkerschmid/lerndeutsch")
 Schreibe deutsche JSON-Datei:
 
 ```
-write.de.json
+write.de.json()
 ```
 
 ## Benutzung
