@@ -5,7 +5,7 @@
 #'
 schreibJSON <- function() {
   ## Schreibe json Deutsche Übersetzungen
-  jsonlite::write_json( list(
+  jsonlite::write_json( de=list(
     button = list(
       runcode = "Code ausführen",
       hint = "Hinweis",
